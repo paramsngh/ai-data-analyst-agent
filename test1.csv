@@ -1,0 +1,15 @@
+date,region,product,units_sold,revenue,customer_segment
+2024-01-01,West,Laptop,5,7500,Enterprise
+2024-01-01,East,Tablet,12,3600,SMB
+2024-01-02,West,Phone,20,14000,Consumer
+2024-01-02,North,Laptop,3,4500,Enterprise
+2024-01-03,South,Tablet,8,2400,SMB
+2024-01-03,West,Phone,15,10500,Consumer
+2024-01-04,East,Laptop,4,6000,Enterprise
+2024-01-04,North,Phone,10,7000,Consumer
+2024-01-05,South,Laptop,2,3000,SMB
+2024-01-05,West,Tablet,14,4200,SMB
+2024-01-06,East,Phone,18,12600,Consumer
+2024-01-06,South,Phone,9,6300,Consumer
+2024-01-07,North,Tablet,6,1800,SMB
+2024-01-07,West,Laptop,7,10500,Enterprise

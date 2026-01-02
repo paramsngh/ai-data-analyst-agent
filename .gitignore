@@ -1,0 +1,6 @@
+__pycache__/
+.env
+uploaded_data.csv
+*.pyc
+.DS_Store
+.streamlit/
